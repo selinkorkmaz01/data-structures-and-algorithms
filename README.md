@@ -16,3 +16,7 @@ This repository contains Java implementations of fundamental data structures and
 ## Purpose
 
 The goal of this repository is to strengthen understanding of core computer science concepts and improve problem-solving skills through practical implementations.
+
+## Implemented Algorithms
+
+- Binary Search
